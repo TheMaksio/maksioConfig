@@ -1,0 +1,1 @@
+-novid -freq 240 -refresh 240 -tickrate 128 +mat_disable_fancy_blending 1 -d3d9ex
